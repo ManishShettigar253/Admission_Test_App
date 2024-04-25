@@ -1,0 +1,11 @@
+Tools and Softwares req :
+1. Xamp server with Apache and Mysql enabled
+2. Vs Code
+3. Java jdk 17 or higher
+4. mysql connector
+
+Steps :
+create databse called "admission_test" in xampp mysql 
+click import option in the top nav bar and upload sql file insoide databse folder provided in the project folder 
+then open project folder in vs code
+click run from App.java ( main fun)
